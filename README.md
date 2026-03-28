@@ -4,8 +4,6 @@
 
 > **不會寫程式也能用。** 你只需要從 Heptabase 匯出一個 JSON 檔，上傳到這個工具，就能下載整理好的 Obsidian 筆記。
 
-<img width="795" alt="App 介面截圖" src="https://user-images.githubusercontent.com/49264539/208339555-30c637ec-0e4f-4373-abee-aba22a1d89b2.png">
-
 ![Browser 預覽（Obsidian 顯示）](images/browser-preview.png)
 
 ---
